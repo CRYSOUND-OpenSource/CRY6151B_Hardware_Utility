@@ -9,6 +9,8 @@ Welcome to the official GitHub repository for CRYSOUND's CRY6151B Hardware Utili
 ## Features
 - Input and Output Channel Selection
 - Input Channel Gain Selection
+- ![image](https://github.com/user-attachments/assets/48792b1b-18a8-4d78-977c-26dbfa9a8d2e)
+
 
 ## Installation
 1. Clone the repository:
